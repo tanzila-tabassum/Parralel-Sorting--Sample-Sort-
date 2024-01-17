@@ -1,1 +1,1 @@
-# Parralel-Sorting--Sample-Sort-
+# Parralel-Sorting-Sample-Sort
